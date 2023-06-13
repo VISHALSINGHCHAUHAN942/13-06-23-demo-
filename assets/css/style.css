@@ -1,0 +1,14 @@
+.navbar{
+    background-color: #ef233c;
+}
+.card {
+    float: left;
+    width: 50%; /* Adjust the width as per your design */
+    background-color:#ffbe0b;
+    padding: auto;
+  }
+  
+  .card_body {
+    width: 40%; /* Adjust the width as per your design */
+    border: 1px solid #ccc;
+  }
