@@ -3,12 +3,33 @@
 }
 .card {
     float: left;
-    width: 50%; /* Adjust the width as per your design */
-    background-color:#ffbe0b;
-    padding: auto;
+    width: 30%; /* Adjust the width as per your design */
+    background-color:#e5e5e5;
+    padding: 20px;
+    margin:  10px;
   }
   
   .card_body {
-    width: 40%; /* Adjust the width as per your design */
+    width: 10%; /* Adjust the width as per your design */
     border: 1px solid #ccc;
   }
+  /* .icon-buttons {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 10px;
+  }
+  
+  .btn-icon {
+    margin-right: 10px;
+  } */
+  .icon-buttons {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 10px;
+    align-items: center;
+  }
+  
+  .btn-icon {
+    margin-right: 10px;
+  }
+  
